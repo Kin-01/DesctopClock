@@ -1,0 +1,27 @@
+457
+267
+300
+True
+D:\University\Course 2\Second\Programming\Lab6\UI\BackgroundImagesSample\Batman.jpg
+Comic Sans MS
+255
+255
+255
+255
+255
+255
+255
+228
+196
+255
+100
+40
+255
+255
+255
+255
+255
+255
+0,85
+0,75
+0,6

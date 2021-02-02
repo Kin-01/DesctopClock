@@ -1,0 +1,12 @@
+D:\University\Course 2\Second\Programming\Lab6\UI\bin\Release\UI.exe.config
+D:\University\Course 2\Second\Programming\Lab6\UI\bin\Release\UI.exe
+D:\University\Course 2\Second\Programming\Lab6\UI\bin\Release\UI.pdb
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.csprojAssemblyReference.cache
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.ClockForm.resources
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.Properties.Resources.resources
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.csproj.GenerateResource.cache
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.csproj.CoreCompileInputs.cache
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.exe
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.pdb
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.AboutProgram.resources
+D:\University\Course 2\Second\Programming\Lab6\UI\obj\Release\UI.SettingsWindow.resources
